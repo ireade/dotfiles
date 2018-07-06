@@ -1,7 +1,8 @@
-# Aliases
-###############################################################################
+################################################################################
+# ALIASES
+################################################################################
 
-# General System
+# General system
 
 alias l="ls -F"
 
@@ -12,3 +13,7 @@ alias gp="git push"
 alias gpo="git push origin"
 alias gl="git pull"
 alias glo="git pull origin"
+
+# Python server 
+
+alias serve="python -m SimpleHTTPServer"
