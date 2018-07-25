@@ -1,0 +1,25 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.fontSize": 14,
+    "editor.fontFamily": "Dank Mono",
+    "editor.fontLigatures": true,
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+
+    "bracketPairColorizer.forceIterationColorCycle": true,
+
+    "terminal.integrated.fontFamily": "Inconsolata",
+    "terminal.integrated.fontSize": 14,
+    "files.associations": {
+        "*.tmpl": "html",
+        ".pa11yci": "json"
+    },
+
+    "stylelint.enable": true,
+    "css.validate": false,
+    "scss.validate": false,
+    "workbench.iconTheme": "file-icons",
+    "window.zoomLevel": 0,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Night Owl"
+}
