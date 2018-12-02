@@ -14,6 +14,7 @@ alias bitsofcode="chrome https://bitsofco.de"
 alias gi="git init && gac 'Initial commit'"
 
 alias gs="git status"
+alias glog='git log --graph --all --decorate'
 alias gac="git add . && git commit -m" # + commit message
 
 alias gp="git push" # + remote & branch names
