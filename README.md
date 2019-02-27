@@ -6,5 +6,5 @@ Dotfiles, configurations, and general workspace setup
 
 ```
 defaults write com.apple.finder AppleShowAllFiles TRUE
-killall Finder
+killAll Finder
 ```
